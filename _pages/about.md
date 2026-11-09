@@ -1,33 +1,31 @@
 ---
 permalink: /
-title: "Welcome to my personal homepage"
-excerpt: "Welcome to my personal homepage"
+title: "About me"
+excerpt: "Joyanta Basak: Ph.D. student in Computer Science and Engineering at the University of Connecticut"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-<head>
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-180997007-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'UA-180997007-1');
-</script>
-</head>
+I am Joyanta Basak (joh-yohn-toh), a Ph.D. student in Computer Science and Engineering at the **University of Connecticut**. I work in the Applied Algorithm Laboratory under the supervision of Prof. Sanguthevar Rajasekaran. I received my M.S. in Computer Science and Engineering from UConn in 2026 and my B.Sc. in Computer Science and Engineering from Bangladesh University of Engineering and Technology (BUET).
 
-I am Joyanta (joh-yohn-toh). <be>
- <p>
-I work on latest wearable technologies at Samsung R&D Institute, Bangladesh <em>(SRBD)</em>. Currently I am working on projects involving design & development of multiple system apps on Tizen & Android wearOS platform.</p>
-   <p>
-I had graduated from <em>Bangladesh University of Engineering & Technology (BUET)</em> in October, 2018. I completed my undergrad thesis under the
-supervision of <a href="http://msrahman.buet.ac.bd/">Dr. M. Sohel Rahman</a> and am still in active research with him.</p>
-  <p>
-My primary research interest lies at the intersection of Computational Biology, Bioinformatics and Applied machine learning.  <br /> 
-I love to apply knowledge of computer science in developing intelligent systems for solving real-world issues including basic biological problems.</p>
-<p> I am also interested to work on health informatics and precision medicine that may facilitate better healthcare for all.</p>
-<p>
-Alongside professional activities, I love to voluntarily partake in social, charitable and environmental activities. I like to travel and meet new people. Learning to play guiter and feeding birds (mostly crows and pigeon) are my favourite pandemic pastimes. </p>
+## Research
+
+My research develops **scalable algorithms and high-performance computing methods for record linkage, entity resolution, and large-scale data integration**: finding which records across large, noisy, and incomplete datasets refer to the same person or entity, quickly and accurately. My current work includes:
+
+- **Fast string similarity.** A linear-time algorithm for the Jaro similarity metric, improving on its classical quadratic-time formulation, plus bit-parallel variants.
+- **Blocking and candidate generation.** Techniques such as SuperBlocking and phonetic (Soundex, Double Metaphone) blocking that cut the number of record comparisons while preserving matching accuracy. This includes blocking for LLM-based record linkage.
+- **GPU and parallel record linkage.** GPU-accelerated and multicore algorithms for processing millions of records and billions of candidate comparisons.
+- **Linkage quality without ground truth.** Cluster-quality metrics and local-search optimization for evaluating and refining record-linkage results when true matches are unknown.
+- **Distributed quantum computing.** Communication-efficient strategies for distributed quantum algorithms.
+
+Much of this work is part of a **U.S. Census Bureau–University of Connecticut cooperative agreement** on computational methods for large-scale record linkage. I collaborate with researchers at the U.S. Census Bureau and the University of Florida.
+
+See my [publications](/publications/) and [CV](/cv/), or my [Google Scholar profile](https://scholar.google.com/citations?user=aPLrEJYAAAAJ&hl=en).
+
+## Before graduate school
+
+I worked as a software engineer at Samsung Research in Dhaka (2020–2021) on Samsung Cloud Service and system software for Galaxy wearables (Tizen and Android Wear OS). Before that, I taught undergraduate computer science courses as a lecturer at Eastern University, Bangladesh (2019).
+
+Outside research, I enjoy traveling, learning guitar, and volunteering.

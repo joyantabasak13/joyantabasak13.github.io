@@ -3,12 +3,12 @@ title: "Software Engineer"
 collection: career
 type: "Software R&D, Application Development"
 permalink: /career/2020-engineer-samsung
-venue: "Samsung R&D Institute Bangladesh (SRBD)"
+venue: "Samsung Research (Samsung R&D Institute Bangladesh)"
 date: 2020-01-15
 location: "Dhaka, Bangladesh"
 ---
 
-[[Brief](https://joyantabasak13.github.io/career/2020-engineer-samsung)] I have worked on multiple system modules. My main contribution was in developing
+(January 2020 – July 2021) I worked on multiple system modules. My main contribution was in developing
 Samsung Cloud Service (system API) on Tizen 5.5 OS for Galaxy Watch3 models and later
 development in Android platform.
 

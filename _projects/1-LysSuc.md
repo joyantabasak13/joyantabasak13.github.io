@@ -1,5 +1,5 @@
 ---
-title: "Undergraduate Research"
+title: "Undergraduate Thesis Research (BUET)"
 excerpt: "Developed an efficient computational tool on CPLM-2.0 database proposing a prediction scheme
 based on evolutionary conserved information of protein sequences. The study explored the efficacy of
 protein sequence based features and protein secondary structure for predicting Lysine Succinylation

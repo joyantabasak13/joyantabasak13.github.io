@@ -1,5 +1,5 @@
 ---
-title: "Campus VM"
+title: "Campus VM (BUET, earlier work)"
 excerpt: "On Credit Vending Machine for BUET Students, Teachers & Staffs"
 collection: projects
 ---

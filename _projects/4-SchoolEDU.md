@@ -1,5 +1,5 @@
 ---
-title: "School Education Manager"
+title: "School Education Manager (BUET, earlier work)"
 excerpt: "An easy-to-maintain Information System Design for a School"
 collection: projects
 ---

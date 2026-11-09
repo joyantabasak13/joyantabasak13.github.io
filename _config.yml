@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Joyanta's Front Page"
+title                    : "Joyanta Basak"
 title_separator          : "-"
 name                     : &name "Joyanta Basak"
-description              : &description "Exploring algorithms that change us"
+description              : &description "Ph.D. student in Computer Science and Engineering at the University of Connecticut, researching scalable record linkage, entity resolution, and high-performance computing."
 url                      : https://joyantabasak13.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "joyantabasak13.github.io"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Joyanta Basak"
   avatar           : "non_colorful.jpg"
-  bio              : "Exploring algorithms that change us"
-  location         : "Dhaka, Bangladesh"
-  employer         :
+  bio              : "Ph.D. student, Computer Science & Engineering, University of Connecticut"
+  location         : "Storrs, Connecticut, USA"
+  employer         : "Applied Algorithm Laboratory, UConn"
   pubmed           :
-  googlescholar    :
+  googlescholar    : "https://scholar.google.com/citations?user=aPLrEJYAAAAJ&hl=en"
   email            : "joyantabasak13@gmail.com"
   researchgate     :  "https://www.researchgate.net/profile/Joyanta_Basak"
   uri              :

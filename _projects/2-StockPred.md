@@ -1,5 +1,5 @@
 ---
-title: "Multivariate Stock Price Prediction Model"
+title: "Multivariate Stock Price Prediction Model (BUET, earlier work)"
 excerpt: "RNN with LSTM model on DSE data"
 collection: projects
 ---
